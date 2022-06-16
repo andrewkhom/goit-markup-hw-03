@@ -383,6 +383,12 @@ margin-top: 0;
    justify-content: center;
 }
 
+.portfolio-button:not(:last-child) {
+    margin-right: 8px;
+}
+
+
+
 .button > .list-portfoli{
     display: inline-block;
     margin-left: auto;
